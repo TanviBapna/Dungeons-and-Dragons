@@ -1,0 +1,65 @@
+
+Remember that a vampire starts with 50 HP.
+
+What is the player name: Scotty Highlander
+Scotty Highlander currently has 200 hp
+
+1 : Go to Battle
+2 : Heal
+What to do next > 1
+Scotty Highlander encounters a random vampire. Battle starts
+Scotty Highlander does 6 damage to vampire
+vampire does 0 damage to Scotty Highlander
+Scotty Highlander hp: 200
+vampire hp: 44
+Scotty Highlander does 0 damage to vampire
+vampire does 1 damage to Scotty Highlander
+Scotty Highlander hp: 199
+vampire hp: 44
+Scotty Highlander does 7 damage to vampire
+vampire does 1 damage to Scotty Highlander
+Scotty Highlander hp: 198
+vampire hp: 37
+Scotty Highlander does 5 damage to vampire
+vampire does 1 damage to Scotty Highlander
+Scotty Highlander hp: 197
+vampire hp: 32
+Scotty Highlander does 8 damage to vampire
+vampire does 2 damage to Scotty Highlander
+Scotty Highlander hp: 195
+vampire hp: 24
+Scotty Highlander does 3 damage to vampire
+vampire does 0 damage to Scotty Highlander
+Scotty Highlander hp: 195
+vampire hp: 21
+Scotty Highlander does 2 damage to vampire
+vampire does 3 damage to Scotty Highlander
+Scotty Highlander hp: 192
+vampire hp: 19
+Scotty Highlander does 4 damage to vampire
+vampire does 2 damage to Scotty Highlander
+Scotty Highlander hp: 190
+vampire hp: 15
+Scotty Highlander does 0 damage to vampire
+vampire does 2 damage to Scotty Highlander
+Scotty Highlander hp: 188
+vampire hp: 15
+Scotty Highlander does 1 damage to vampire
+vampire does 1 damage to Scotty Highlander
+Scotty Highlander hp: 187
+vampire hp: 14
+Scotty Highlander does 2 damage to vampire
+vampire does 3 damage to Scotty Highlander
+Scotty Highlander hp: 184
+vampire hp: 12
+Scotty Highlander does 5 damage to vampire
+vampire does 2 damage to Scotty Highlander
+Scotty Highlander hp: 182
+vampire hp: 7
+Scotty Highlander does 5 damage to vampire
+vampire does 1 damage to Scotty Highlander
+Scotty Highlander hp: 181
+vampire hp: 2
+Scotty Highlander does 5 damage to vampire
+The vampire has died, hurray!
+Press enter to return home

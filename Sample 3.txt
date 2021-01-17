@@ -1,0 +1,201 @@
+Here is sample output, again continuing from the game above, showing that the player has lost a battle (and the game ends). Remember that the battle loop runs until either the player or enemy dies. Sometimes this could take a while because the dice rolls are random. 
+
+Press enter to return home
+Scotty Highlander currently has 200 hp
+
+1 : Go to Battle
+2 : Heal
+What to do next > 1
+Scotty Highlander encounters a random dracula. Battle starts
+Scotty Highlander does 3 damage to dracula
+dracula does 3 damage to Scotty Highlander
+Scotty Highlander hp: 197
+dracula hp: 197
+Scotty Highlander does 2 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 193
+dracula hp: 195
+Scotty Highlander does 0 damage to dracula
+dracula does 6 damage to Scotty Highlander
+Scotty Highlander hp: 187
+dracula hp: 195
+Scotty Highlander does 0 damage to dracula
+dracula does 3 damage to Scotty Highlander
+Scotty Highlander hp: 184
+dracula hp: 195
+Scotty Highlander does 0 damage to dracula
+dracula does 7 damage to Scotty Highlander
+Scotty Highlander hp: 177
+dracula hp: 195
+Scotty Highlander does 0 damage to dracula
+dracula does 2 damage to Scotty Highlander
+Scotty Highlander hp: 175
+dracula hp: 195
+Scotty Highlander does 7 damage to dracula
+dracula does 2 damage to Scotty Highlander
+Scotty Highlander hp: 173
+dracula hp: 188
+Scotty Highlander does 4 damage to dracula
+dracula does 5 damage to Scotty Highlander
+Scotty Highlander hp: 168
+dracula hp: 184
+Scotty Highlander does 3 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 164
+dracula hp: 181
+Scotty Highlander does 7 damage to dracula
+dracula does 5 damage to Scotty Highlander
+Scotty Highlander hp: 159
+dracula hp: 174
+Scotty Highlander does 5 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 155
+dracula hp: 169
+Scotty Highlander does 5 damage to dracula
+dracula does 5 damage to Scotty Highlander
+Scotty Highlander hp: 150
+dracula hp: 164
+Scotty Highlander does 3 damage to dracula
+dracula does 6 damage to Scotty Highlander
+Scotty Highlander hp: 144
+dracula hp: 161
+Scotty Highlander does 0 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 140
+dracula hp: 161
+Scotty Highlander does 6 damage to dracula
+dracula does 1 damage to Scotty Highlander
+Scotty Highlander hp: 139
+dracula hp: 155
+Scotty Highlander does 3 damage to dracula
+dracula does 0 damage to Scotty Highlander
+Scotty Highlander hp: 139
+dracula hp: 152
+Scotty Highlander does 6 damage to dracula
+dracula does 7 damage to Scotty Highlander
+Scotty Highlander hp: 132
+dracula hp: 146
+Scotty Highlander does 6 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 128
+dracula hp: 140
+Scotty Highlander does 3 damage to dracula
+dracula does 7 damage to Scotty Highlander
+Scotty Highlander hp: 121
+dracula hp: 137
+Scotty Highlander does 2 damage to dracula
+dracula does 8 damage to Scotty Highlander
+Scotty Highlander hp: 113
+dracula hp: 135
+Scotty Highlander does 4 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 109
+dracula hp: 131
+Scotty Highlander does 0 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 105
+dracula hp: 131
+Scotty Highlander does 6 damage to dracula
+dracula does 8 damage to Scotty Highlander
+Scotty Highlander hp: 97
+dracula hp: 125
+Scotty Highlander does 6 damage to dracula
+dracula does 2 damage to Scotty Highlander
+Scotty Highlander hp: 95
+dracula hp: 119
+Scotty Highlander does 2 damage to dracula
+dracula does 3 damage to Scotty Highlander
+Scotty Highlander hp: 92
+dracula hp: 117
+Scotty Highlander does 5 damage to dracula
+dracula does 3 damage to Scotty Highlander
+Scotty Highlander hp: 89
+dracula hp: 112
+Scotty Highlander does 7 damage to dracula
+dracula does 1 damage to Scotty Highlander
+Scotty Highlander hp: 88
+dracula hp: 105
+Scotty Highlander does 0 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 84
+dracula hp: 105
+Scotty Highlander does 4 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 80
+dracula hp: 101
+Scotty Highlander does 4 damage to dracula
+dracula does 3 damage to Scotty Highlander
+Scotty Highlander hp: 77
+dracula hp: 97
+Scotty Highlander does 2 damage to dracula
+dracula does 0 damage to Scotty Highlander
+Scotty Highlander hp: 77
+dracula hp: 95
+Scotty Highlander does 2 damage to dracula
+dracula does 8 damage to Scotty Highlander
+Scotty Highlander hp: 69
+dracula hp: 93
+Scotty Highlander does 7 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 65
+dracula hp: 86
+Scotty Highlander does 3 damage to dracula
+dracula does 2 damage to Scotty Highlander
+Scotty Highlander hp: 63
+dracula hp: 83
+Scotty Highlander does 3 damage to dracula
+dracula does 5 damage to Scotty Highlander
+Scotty Highlander hp: 58
+dracula hp: 80
+Scotty Highlander does 0 damage to dracula
+dracula does 2 damage to Scotty Highlander
+Scotty Highlander hp: 56
+dracula hp: 80
+Scotty Highlander does 0 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 52
+dracula hp: 80
+Scotty Highlander does 1 damage to dracula
+dracula does 5 damage to Scotty Highlander
+Scotty Highlander hp: 47
+dracula hp: 79
+Scotty Highlander does 2 damage to dracula
+dracula does 5 damage to Scotty Highlander
+Scotty Highlander hp: 42
+dracula hp: 77
+Scotty Highlander does 4 damage to dracula
+dracula does 1 damage to Scotty Highlander
+Scotty Highlander hp: 41
+dracula hp: 73
+Scotty Highlander does 1 damage to dracula
+dracula does 8 damage to Scotty Highlander
+Scotty Highlander hp: 33
+dracula hp: 72
+Scotty Highlander does 7 damage to dracula
+dracula does 6 damage to Scotty Highlander
+Scotty Highlander hp: 27
+dracula hp: 65
+Scotty Highlander does 3 damage to dracula
+dracula does 7 damage to Scotty Highlander
+Scotty Highlander hp: 20
+dracula hp: 62
+Scotty Highlander does 4 damage to dracula
+dracula does 7 damage to Scotty Highlander
+Scotty Highlander hp: 13
+dracula hp: 58
+Scotty Highlander does 4 damage to dracula
+dracula does 7 damage to Scotty Highlander
+Scotty Highlander hp: 6
+dracula hp: 54
+Scotty Highlander does 5 damage to dracula
+dracula does 4 damage to Scotty Highlander
+Scotty Highlander hp: 2
+dracula hp: 49
+Scotty Highlander does 5 damage to dracula
+dracula does 6 damage to Scotty Highlander
+Oh no! Scotty Highlander
+Player is dead!
+How the game ends
+The game runs infinitely as long as the player is alive. Remember that when an enemy dies, their HP is reset to their maximum, so there could theoretically be infinite battles. 
+
+The game ends when the player dies. 

@@ -1,0 +1,17 @@
+Here is sample output, continuing from the game above (killing the vampire) which demonstrates the player being healed. 
+
+The vampire has died, hurray!
+Press enter to return home
+Scotty Highlander currently has 181 hp
+
+1 : Go to Battle
+2 : Heal
+What to do next > 2
+The player takes rest under a healing fountain. Hp restored!
+Press any key to return home
+Scotty Highlander currently has 200 hp
+
+1 : Go to Battle
+2 : Heal
+What to do next > 
+
