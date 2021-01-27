@@ -1,21 +1,23 @@
-Dungeons and Dragons, a popular roleplaying game. 
+# Dungeons and Dragons, a popular roleplaying game. 
 
-Introduction :
+## Introduction :
 One of the main components of the game is the dice roll. This allows for randomization and adds variations to the game. Die sides are denoted by d3, d6, d20, etc., with the number referring to the number of sides that the die has. Since we are using a computer, we can have a die like d1000 (meaning a 1000-sided die) which would not be possible in real life. We can also roll multiple dice. 
 
 For example, 1d6 means a six-sided die that can output anything from 1, 2, 3, 4, 5, or 6. 
 2d6 means two six-sided dice that can output the sum of two dice throws (e.g., 2 through 12). If the first roll is 3 and the second roll is 2, the sum is 5. 
 
 
-Each enemy in its own dictionary
+## Each enemy in its own dictionary.
 There are four enemies total. Each is stored in its own dictionary with key:value pairs for name, attack roll, defense roll, maximum hit points (HP), and current HP. Current HP is like the health of a character. 
-A LIST of DICTIONARIES for enemies
+
+## A LIST of DICTIONARIES for enemies:
 The four enemy dictionaries are stored in a list. Meaning, you will have to first get a position in the list, which returns a dictionary, then use that dictionary to find the enemy’s attributes. 
-A player dictionary
+
+## A player dictionary:
 A player has been created by default. You will enter the player’s name when the program runs. 
 
 
-Function:
+## Function:
 get_roll(rollstring) :
 This function takes an input parameter as a string that looks like “1d3”, “3d5”, etc. The function should return an integer simulating those dice rolls. In the case of “3d5”, for example, the function will generate a random number between 1 and 5, three times, and return the total as an integer. 
 
